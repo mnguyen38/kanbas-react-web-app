@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Assignment 1 Minh nguyen
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
