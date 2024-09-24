@@ -16,7 +16,7 @@ export default function AssignmentEditor() {
             </td>
             <td>
               <input id="wd-points" type="number" value={100} /> 
-            </td><br />
+            </td>
           </tr>
           <tr>
             <td align="right" valign="top">
