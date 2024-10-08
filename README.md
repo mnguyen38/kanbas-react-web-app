@@ -1,4 +1,4 @@
-# Assignment 1 Minh Nguyen
+# Assignment 2 Minh Nguyen
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
